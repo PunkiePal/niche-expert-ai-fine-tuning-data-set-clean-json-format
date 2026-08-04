@@ -1,0 +1,4 @@
+[
+  {"messages": [{"role": "system", "content": "You are an expert AI assistant."}, {"role": "user", "content": "Analyze this protocol."}, {"role": "assistant", "content": "Protocol approved."}]},
+  {"messages": [{"role": "system", "content": "You are an expert AI assistant."}, {"role": "user", "content": "Execute deployment."}, {"role": "assistant", "content": "Deployment successful."}]}
+]
