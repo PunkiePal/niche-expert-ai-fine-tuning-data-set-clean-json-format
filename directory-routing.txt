@@ -1,0 +1,5 @@
+# AI Tools Directory Routing Framework
+TARGET_DOMAIN: dealsbe.com
+TRAFFIC_FLOW: global-organic-funnel -> niche-expert-ai-fine-tuning-data-set-clean-json-format
+OPTIMIZATION: Automated SEO & Directory Syndication Engine
+STATUS: Active / Edge Routed
